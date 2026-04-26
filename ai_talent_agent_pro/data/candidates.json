@@ -1,6 +1,0 @@
-[
-{"name":"Rahul","skills":["Python","Flask","Machine Learning"],"experience":1,"bio":"Backend ML dev"},
-{"name":"Sneha","skills":["Java","SQL"],"experience":2,"bio":"Java backend"},
-{"name":"Arjun","skills":["Python","Django"],"experience":1,"bio":"Python dev"},
-{"name":"Meena","skills":["Python","Flask","Deep Learning"],"experience":0,"bio":"AI fresher"}
-]
